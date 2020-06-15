@@ -46,7 +46,7 @@
         {
             "slug": "01.1-hello-world",
             "title": "01.1-hello-world",
-            "done": false,
+            "done": true,
             "path": "exercises/01.1-hello-world",
             "translations": [
                 "es",
@@ -112,7 +112,7 @@
         {
             "slug": "02.1-maping-array-objects-to-li",
             "title": "02.1-maping-array-objects-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02.1-maping-array-objects-to-li",
             "translations": [
                 "es",
@@ -123,7 +123,7 @@
         {
             "slug": "02.2-maping-array-of-objects-to-li",
             "title": "02.2-maping-array-of-objects-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02.2-maping-array-of-objects-to-li",
             "translations": [
                 "es",
@@ -134,7 +134,7 @@
         {
             "slug": "03-render-with-functions",
             "title": "03-render-with-functions",
-            "done": false,
+            "done": true,
             "path": "exercises/03-render-with-functions",
             "translations": [
                 "es",
@@ -145,7 +145,7 @@
         {
             "slug": "03.1-your-first-component",
             "title": "03.1-your-first-component",
-            "done": false,
+            "done": true,
             "path": "exercises/03.1-your-first-component",
             "translations": [
                 "es",
@@ -156,7 +156,7 @@
         {
             "slug": "03.2-a-real-component",
             "title": "03.2-a-real-component",
-            "done": false,
+            "done": true,
             "path": "exercises/03.2-a-real-component",
             "translations": [
                 "es",
@@ -167,7 +167,7 @@
         {
             "slug": "03.3-component-properties",
             "title": "03.3-component-properties",
-            "done": false,
+            "done": true,
             "path": "exercises/03.3-component-properties",
             "translations": [
                 "es",
@@ -178,7 +178,7 @@
         {
             "slug": "03.4-jumbotron",
             "title": "03.4-jumbotron",
-            "done": false,
+            "done": true,
             "path": "exercises/03.4-jumbotron",
             "translations": [
                 "es",
@@ -200,7 +200,7 @@
         {
             "slug": "04-conditional-rendering",
             "title": "04-conditional-rendering",
-            "done": false,
+            "done": true,
             "path": "exercises/04-conditional-rendering",
             "translations": [
                 "es",
@@ -222,7 +222,7 @@
         {
             "slug": "04.2-conditional-rendering-ii",
             "title": "04.2-conditional-rendering-ii",
-            "done": false,
+            "done": true,
             "path": "exercises/04.2-conditional-rendering-ii",
             "translations": [
                 "es",
@@ -233,7 +233,7 @@
         {
             "slug": "05-adding-styles",
             "title": "05-adding-styles",
-            "done": false,
+            "done": true,
             "path": "exercises/05-adding-styles",
             "translations": [
                 "es",
@@ -255,7 +255,7 @@
         {
             "slug": "06-listening-to-events",
             "title": "06-listening-to-events",
-            "done": false,
+            "done": true,
             "path": "exercises/06-listening-to-events",
             "translations": [
                 "es",
